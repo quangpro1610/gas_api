@@ -13,7 +13,7 @@
   "keywords": [
     "gas-api",
     "ethereum",
-    "gas",
+    "gas"
   ],
   "author": "quangpro1610",
   "license": "MIT",
@@ -21,7 +21,6 @@
     "url": "https://github.com/quangpro1610/gas_api/issues"
   },
   "homepage": "https://github.com/quangpro1610/gas_api#readme",
-  "license": "ISC",
   "dependencies": {
     "axios": "^1.6.8",
     "dotenv": "^16.4.5"
